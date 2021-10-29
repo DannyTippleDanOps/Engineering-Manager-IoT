@@ -1,12 +1,10 @@
-# Lead-Android- £80-95k
-Heavily funded start-up require a Lead Android Developer to build an app and team 
+# Engineering Manager - £100-120k
+Scale up within IoT space
 
 Key skills/responsibilities
-Agile, TDD, CI
-4+ years Android Dev Exp 
-Google Maps & APIs
-Solid commercial experience developing native Android applications
+Agile/DevOps mindset, TDD
+Hands on and managing a team of 4
+Go, Python
 Ability to write high quality, clean and maintainable code
-Strong knowledge of Git and version control and GitFlow
 
-danny.tipple@glglobal.co.uk to apply 
+danny.tipple@thirdrepublic.com to apply 
